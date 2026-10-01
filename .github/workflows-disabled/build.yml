@@ -1,0 +1,3 @@
+git mv .github/workflows-disabled .github/workflows
+git commit -m "restore workflows"
+git push
